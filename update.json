@@ -2,9 +2,10 @@
   "versionName": "1.0",
   "versionCode": 107,
   "features": [
-    "اختبار إشعار التحديث",
-    "مزايا تجريبية لعرض شكل الإعلان",
-    "هذه نسخة اختبار وليست مزايا نهائية"
+    "الاستعلام عن الرصيد والباقات",
+    "عرض الأرقام الأخيرة",
+    "لصق الرقم أو اختياره من جهات الاتصال",
+    "واجهة لتحديث التطبيق"
   ],
   "apkUrl": "https://github.com/hashem7droid23-ux/rasidi-yemen-mobile-updates/releases/download/v1.0-107/rasidi-yemen-mobile-v1.0-107.apk",
   "browserUrl": "https://github.com/hashem7droid23-ux/rasidi-yemen-mobile-updates/releases/tag/v1.0-107",
