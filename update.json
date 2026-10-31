@@ -1,11 +1,13 @@
 {
   "versionName": "1.0",
-  "versionCode": 104,
+  "versionCode": 105,
   "features": [
+    "نافذة تحديث جديدة أصغر وأوضح",
     "إضافة زر لصق الرقم",
-    "اختيار رقم من جهات الاتصال داخل حقل البحث"
+    "اختيار رقم من جهات الاتصال داخل حقل البحث",
+    "حذف ملاحظة سبأفون من شاشة الاستعلام"
   ],
-  "apkUrl": "https://github.com/hashem7droid23-ux/rasidi-yemen-mobile-updates/releases/download/v1.0-104/rasidi-yemen-mobile-v1.0-test.apk",
-  "browserUrl": "https://github.com/hashem7droid23-ux/rasidi-yemen-mobile-updates/releases/tag/v1.0-104",
+  "apkUrl": "https://github.com/hashem7droid23-ux/rasidi-yemen-mobile-updates/releases/download/v1.0-105/rasidi-yemen-mobile-v1.0-105.apk",
+  "browserUrl": "https://github.com/hashem7droid23-ux/rasidi-yemen-mobile-updates/releases/tag/v1.0-105",
   "forceUpdate": false
 }
