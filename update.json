@@ -1,13 +1,14 @@
 {
   "versionName": "1.0",
-  "versionCode": 107,
+  "versionCode": 108,
   "features": [
+    "تحديث واجهة رمز التحقق بالأبيض والأحمر",
     "الاستعلام عن الرصيد والباقات",
     "عرض الأرقام الأخيرة",
     "لصق الرقم أو اختياره من جهات الاتصال",
     "واجهة لتحديث التطبيق"
   ],
-  "apkUrl": "https://github.com/hashem7droid23-ux/rasidi-yemen-mobile-updates/releases/download/v1.0-107/rasidi-yemen-mobile-v1.0-107.apk",
-  "browserUrl": "https://github.com/hashem7droid23-ux/rasidi-yemen-mobile-updates/releases/tag/v1.0-107",
+  "apkUrl": "https://github.com/hashem7droid23-ux/rasidi-yemen-mobile-updates/releases/download/v1.0-108/rasidi-yemen-mobile-v1.0-108.apk",
+  "browserUrl": "https://github.com/hashem7droid23-ux/rasidi-yemen-mobile-updates/releases/tag/v1.0-108",
   "forceUpdate": false
 }
