@@ -1,14 +1,12 @@
 {
-  "versionName": "1.0",
-  "versionCode": 108,
+  "versionName": "1.1",
+  "versionCode": 115,
   "features": [
-    "تحديث واجهة رمز التحقق بالأبيض والأحمر",
-    "الاستعلام عن الرصيد والباقات",
-    "عرض الأرقام الأخيرة",
-    "لصق الرقم أو اختياره من جهات الاتصال",
-    "واجهة لتحديث التطبيق"
+    "حل مشكلة لا توجد باقات للأرقام 3G و4G",
+    "إظهار نوع الشريحة إذا كانت VoLTE أو 4G أو 3G",
+    "أصبح الاستعلام يشمل جميع أنواع شرائح يمن موبايل"
   ],
-  "apkUrl": "https://github.com/hashem7droid23-ux/rasidi-yemen-mobile-updates/releases/download/v1.0-108/rasidi-yemen-mobile-v1.0-108.apk",
-  "browserUrl": "https://github.com/hashem7droid23-ux/rasidi-yemen-mobile-updates/releases/tag/v1.0-108",
+  "apkUrl": "https://github.com/hashem7droid23-ux/rasidi-yemen-mobile-updates/releases/download/v1.1-115/rasidi-yemen-mobile-v1.1-115.apk",
+  "browserUrl": "https://github.com/hashem7droid23-ux/rasidi-yemen-mobile-updates/releases/tag/v1.1-115",
   "forceUpdate": false
 }
