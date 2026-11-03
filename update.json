@@ -1,12 +1,11 @@
 {
-  "versionName": "1.1",
-  "versionCode": 115,
+  "versionName": "1.2",
+  "versionCode": 118,
   "features": [
-    "حل مشكلة لا توجد باقات للأرقام 3G و4G",
-    "إظهار نوع الشريحة إذا كانت VoLTE أو 4G أو 3G",
-    "أصبح الاستعلام يشمل جميع أنواع شرائح يمن موبايل"
+    "إصلاح عناوين باقات 3G و4G بالأرقام: إنترنت 3G وإنترنت 4G.",
+    "إصلاح قيم المتبقي من بيانات 3G و4G التي كانت تظهر أرقامًا غير مفهومة لتظهر بشكل واضح."
   ],
-  "apkUrl": "https://github.com/hashem7droid23-ux/rasidi-yemen-mobile-updates/releases/download/v1.1-115/rasidi-yemen-mobile-v1.1-115.apk",
-  "browserUrl": "https://github.com/hashem7droid23-ux/rasidi-yemen-mobile-updates/releases/tag/v1.1-115",
+  "apkUrl": "https://github.com/hashem7droid23-ux/rasidi-yemen-mobile-updates/releases/download/v1.2-118/rasidi-yemen-mobile-v1.2-118.apk",
+  "browserUrl": "https://github.com/hashem7droid23-ux/rasidi-yemen-mobile-updates/releases/tag/v1.2-118",
   "forceUpdate": false
 }
